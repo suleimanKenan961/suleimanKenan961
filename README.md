@@ -24,9 +24,8 @@ Frameworks: Spring Boot, Android SDK, Hibernate
 Tools: Git, Docker, JIRA, Jenkins
 Databases: MySQL, PostgreSQL
 
- Find Me:
-GitHub:
-LinkedIn:
+ Find Me
+LinkedIn:in/suleiman-kenan-0ba6a329a
 
 
  Contact Me:
