@@ -1,7 +1,6 @@
  👋 Hi, I’m Suleiman!
  A passionate computer science student specializing in Java Spring and Android development.
 
-📜 About Me
  
  💻 Specialization:
   
